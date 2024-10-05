@@ -84,7 +84,7 @@ const Sidebar = () => {
       >
         <div>
           <Image
-            src="https://s3-inventorymanage.s3.ca-central-1.amazonaws.com/profile.jpg"
+            src="https://s3-inventorymanage.s3.ca-central-1.amazonaws.com/logo.png"
             alt="logo"
             width={27}
             height={27}
